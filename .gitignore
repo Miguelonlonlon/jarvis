@@ -39,6 +39,18 @@ stt_engines/deepspeech/lib/
 
 stt_engines/deepspeech/share/
 
+stt_engines/porcupine/bin/
+
+stt_engines/porcupine/lib/
+
+stt_engines/porcupine/include/
+
+stt_engines/porcupine/share/
+
+stt_engines/porcupine/pyvenv.cfg
+
+stt_engines/porcupine/porcupine.log
+
 *.pmdl
 
 hooks/entering_cmd
